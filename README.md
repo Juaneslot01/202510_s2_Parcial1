@@ -1,1 +1,1 @@
-# 202510_s2_Parcial1
+# Juan Esteban Lopez - 202020285

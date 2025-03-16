@@ -1,0 +1,17 @@
+{
+    "home": {
+      "menu": "Menú",
+      "stores": "Tiendas",
+      "cart": "Carrito"
+    },
+    "login": {
+      "title": "Too Good To Go",
+      "subtitle": "Solución contra el desperdicio de alimentos",
+      "username": "Usuario",
+      "password": "Contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "button": "Iniciar Sesión",
+      "error": "Por favor, corrige los errores del formulario."
+    }
+  }
+  

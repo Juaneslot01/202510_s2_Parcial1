@@ -1,0 +1,17 @@
+{
+    "home": {
+      "menu": "Menu",
+      "stores": "Stores",
+      "cart": "Cart"
+    },
+    "login": {
+      "title": "Too Good To Go",
+      "subtitle": "Food Wasting Solution",
+      "username": "Username",
+      "password": "Password",
+      "forgotPassword": "Forgot Password?",
+      "button": "Login",
+      "error": "Please correct the errors in the form."
+    }
+  }
+  

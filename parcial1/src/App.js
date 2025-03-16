@@ -3,6 +3,7 @@ import Home from "./Components/Home";
 import Detail from "./Components/Detail";
 import './App.css';
 import { BrowserRouter,Routes, Route} from "react-router-dom";
+import "./Components/i18n";
 
 function App() {
   return (
